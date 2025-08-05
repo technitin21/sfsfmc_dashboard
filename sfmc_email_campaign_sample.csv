@@ -1,0 +1,4 @@
+Campaign Name,Send Date,Emails Sent,Opens,Clicks,Unsubscribes,Bounces,Open Rate (%),Click Rate (%),Unsubscribe Rate (%),Bounce Rate (%)
+Welcome Series,2025-08-05 15:59:35.313952,1000,600,200,10,30,60.0,20.0,1.0,3.0
+Product Launch,2025-07-29 15:59:35.313972,1500,900,350,25,40,60.0,23.33,1.67,2.67
+Abandoned Cart,2025-07-22 15:59:35.313975,1200,750,300,15,35,62.5,25.0,1.25,2.92
